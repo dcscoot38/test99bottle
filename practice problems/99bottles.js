@@ -1,5 +1,4 @@
 //William
-// test
 //Start with a variable
 var numberOfBottle = 99
 var text = ""
